@@ -1,0 +1,2 @@
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/bin/Debug/net6.0/linux-x64/publish/ProjectFile.pdb
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/bin/Debug/net6.0/linux-x64/publish/ProjectFile

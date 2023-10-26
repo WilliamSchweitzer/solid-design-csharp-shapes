@@ -1,0 +1,15 @@
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/bin/Debug/net6.0/linux-x64/ProjectFile
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/bin/Debug/net6.0/linux-x64/ProjectFile.deps.json
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/bin/Debug/net6.0/linux-x64/ProjectFile.runtimeconfig.json
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/bin/Debug/net6.0/linux-x64/ProjectFile.dll
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/bin/Debug/net6.0/linux-x64/ProjectFile.pdb
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/obj/Debug/net6.0/linux-x64/ProjectFile.csproj.AssemblyReference.cache
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/obj/Debug/net6.0/linux-x64/ProjectFile.GeneratedMSBuildEditorConfig.editorconfig
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/obj/Debug/net6.0/linux-x64/ProjectFile.AssemblyInfoInputs.cache
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/obj/Debug/net6.0/linux-x64/ProjectFile.AssemblyInfo.cs
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/obj/Debug/net6.0/linux-x64/ProjectFile.csproj.CoreCompileInputs.cache
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/obj/Debug/net6.0/linux-x64/ProjectFile.dll
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/obj/Debug/net6.0/linux-x64/refint/ProjectFile.dll
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/obj/Debug/net6.0/linux-x64/ProjectFile.pdb
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/obj/Debug/net6.0/linux-x64/ProjectFile.genruntimeconfig.cache
+/home/schweiwe7/Documents/GitHub/solid-design-csharp-shapes/obj/Debug/net6.0/linux-x64/ref/ProjectFile.dll
