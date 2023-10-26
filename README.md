@@ -1,7 +1,12 @@
 # Object Oriented .NET6.0 Project for multidimensional shapes 
 
 **I am currently searching for software development or software engineering job opportunities.**
+
 [LinkedIn](https://www.linkedin.com/in/william-schweitzer/)
+
+
+:rocket: *Work in progress* :rocket: 
+[Current TODO List](https://github.com/WilliamSchweitzer/solid-design-csharp-shapes/blob/main/TODO.md)
 
 ## Description
 ```
